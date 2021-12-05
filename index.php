@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
-<link rel="stylesheet" href="/FrontEnd/formato.css">
+<link rel="stylesheet" href="/FrontEnd/normalize.css">
+<link rel="stylesheet" href="/FrontEnd/estilos.css">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,6 +9,6 @@
     <title>Roleando</title>
 </head>
 <body>
-
+<h1>hola mundo<h1>
 </body>
 </html>
